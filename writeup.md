@@ -23,7 +23,7 @@ The goals / steps of this project are the following:
 [image5]: ./examples/placeholder_small.png "Recovery Image"
 [image6]: ./examples/placeholder_small.png "Normal Image"
 [image7]: ./examples/placeholder_small.png "Flipped Image"
-[image7]: ./images/NVIDIA.jpg "Nvidia"
+[image8]: ./images/NVIDIA.jpg "Nvidia"
 
 
 ## Rubric Points
