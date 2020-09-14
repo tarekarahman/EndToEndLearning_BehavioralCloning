@@ -55,7 +55,7 @@ The model.py file contains the code for training and saving the convolution neur
 #### 1. An appropriate model architecture has been employed
 
 I used the Nvidia model from the paper "End to End Learning for Self-Driving Cars" as my skeleton model.
-![alt text][image7]
+![alt text][image8]
 
 My model consists of 5 convolution layers with a combination of 5x5 and 3x3 filter sizes and depths between 24 and 64 (model.py lines 70-98). Then 4 more fully connected layers are followed ranging from output sizes (100-50-10-1). More details will be given in the final architecture. 
 
